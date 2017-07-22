@@ -1,6 +1,6 @@
 ## CSUFGo
 
-<p>Web application used students/staff/faculty to advertise campus wide events. </p>
+<p>Web application used students/staff/faculty to advertise campus wide events. This project was developed by using using the MEAN stack (MongoDB, Express.js, AngularJS, and Node.js). </p>
 
 The following instructions are for a Mac(iOS).
 ## Setup
