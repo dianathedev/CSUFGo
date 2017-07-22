@@ -30,3 +30,7 @@ Express
 	$ npm start
 
 You should be able to run and view http://localhost:3000/#/home
+
+### To Do
+
+Implement the search functionality
